@@ -1,0 +1,3 @@
+git+https://github.com/aehlke/ebmodule.git@fa1a9c8feda3c5adfb38e1778a9cafcedfe0d1e9#egg=ebmodule
+progressbar==2.3
+pyinstaller==2.1
