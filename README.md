@@ -39,7 +39,7 @@ https://github.com/mcho421/noj_dumper (tentative)
 Contact
 -------
 Mathew Chong
-mathewchong7@gmail.com
+mathewchong.dev@gmail.com
 
 Credits
 -------
